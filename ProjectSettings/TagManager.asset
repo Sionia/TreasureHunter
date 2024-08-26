@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - OneWay
+  - Enemy
+  - AttackArea
+  - Coin
+  - PowerUp
+  - Coin2
+  - Box
+  - Bullet
+  - Sword
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Box
+  - Player
+  - Coin
+  - Bullet
+  - PowerUp
+  - Enemy
+  - BreakBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundBehind
+    uniqueID: 1208060349
+    locked: 0
+  - name: Background
+    uniqueID: 3631492805
+    locked: 0
+  - name: TreeShadow
+    uniqueID: 76289371
+    locked: 0
+  - name: Ground
+    uniqueID: 532915977
+    locked: 0
+  - name: Player
+    uniqueID: 1312771043
+    locked: 0
+  - name: Effect
+    uniqueID: 4188135979
+    locked: 0
+  - name: UI
+    uniqueID: 3313590383
+    locked: 0
